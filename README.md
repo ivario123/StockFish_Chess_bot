@@ -1,6 +1,6 @@
 Disclaimer:
 
-Do not under anny circumstances use this code for cheating. The only reason you should use this code is for academic research.
+Do not under anny circumstances use this code for cheating. The only reason you should use this code is for testing chess.com bots.
 
 
 
